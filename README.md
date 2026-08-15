@@ -159,7 +159,7 @@ Every extracted claim carries five fields:
 
 ```bash
 # 1. Clone
-git clone <your-repo-url>
+git clone https://github.com/Bhupin123/sunbridge-import-compliance-agent.git
 cd sunbridge-import-compliance-agent
 
 # 2. Create a virtual environment (optional but recommended)
