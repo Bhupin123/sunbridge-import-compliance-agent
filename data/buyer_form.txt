@@ -1,0 +1,7 @@
+Ref: INT-2024-8841
+Buyer: SunBridge Trading Pvt. Ltd.
+Destination: Bangladesh
+Item: SUN-5K-G06P3-EU-AM2-P1 — buyer wrote "5000 W", rooftop
+Maker: Ningbo Deye Inverter Technology Co., Ltd., China
+Attached docs: none
+Need by: 2024-11-30

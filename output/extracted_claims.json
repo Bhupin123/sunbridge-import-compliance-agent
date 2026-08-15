@@ -1,0 +1,194 @@
+{
+  "model": [
+    {
+      "value": "SUN-5K-G06P3-EU-AM2-P1",
+      "source": "manufacturer_datasheet",
+      "confidence": "high",
+      "status": "manufacturer_stated",
+      "notes": "Model number from manufacturer datasheet"
+    },
+    {
+      "value": "SUN-5K-G06P3-EU-AM2-P1",
+      "source": "buyer_form",
+      "confidence": "high",
+      "status": "buyer_stated",
+      "notes": "Model number from buyer form"
+    },
+    {
+      "value": "SUN-5K-G06P3",
+      "source": "call_notes",
+      "confidence": "high",
+      "status": "verbal",
+      "notes": "Model number from call notes"
+    }
+  ],
+  "rated_power": [
+    {
+      "value": "5 kW",
+      "source": "manufacturer_datasheet",
+      "confidence": "high",
+      "status": "manufacturer_stated",
+      "notes": "Rated power from manufacturer datasheet"
+    },
+    {
+      "value": "5000 W",
+      "source": "buyer_form",
+      "confidence": "high",
+      "status": "buyer_stated",
+      "notes": "Rated power from buyer form"
+    },
+    {
+      "value": "5 kW",
+      "source": "call_notes",
+      "confidence": "high",
+      "status": "verbal",
+      "notes": "Rated power from call notes"
+    }
+  ],
+  "manufacturer": [
+    {
+      "value": "Ningbo Deye Inverter Technology Co., Ltd.",
+      "source": "manufacturer_datasheet",
+      "confidence": "high",
+      "status": "manufacturer_stated",
+      "notes": "Manufacturer from manufacturer datasheet"
+    },
+    {
+      "value": "Ningbo Deye Inverter Technology Co., Ltd., China",
+      "source": "buyer_form",
+      "confidence": "high",
+      "status": "buyer_stated",
+      "notes": "Manufacturer from buyer form"
+    },
+    {
+      "value": "Deye (China)",
+      "source": "call_notes",
+      "confidence": "high",
+      "status": "verbal",
+      "notes": "Manufacturer from call notes"
+    }
+  ],
+  "factory_address": [
+    {
+      "value": "No. 26 South YongJiang Road, Daqi, Beilun, NingBo, Zhejiang, China.",
+      "source": "manufacturer_datasheet",
+      "confidence": "high",
+      "status": "manufacturer_stated",
+      "notes": "Factory address from manufacturer datasheet"
+    }
+  ],
+  "country_of_manufacture": [
+    {
+      "value": "China",
+      "source": "manufacturer_datasheet",
+      "confidence": "high",
+      "status": "manufacturer_stated",
+      "notes": "Country of manufacture from manufacturer datasheet"
+    },
+    {
+      "value": "China",
+      "source": "buyer_form",
+      "confidence": "high",
+      "status": "buyer_stated",
+      "notes": "Country of manufacture from buyer form"
+    },
+    {
+      "value": "China",
+      "source": "call_notes",
+      "confidence": "high",
+      "status": "verbal",
+      "notes": "Country of manufacture from call notes"
+    }
+  ],
+  "ip_rating": [
+    {
+      "value": "IP65",
+      "source": "manufacturer_datasheet",
+      "confidence": "high",
+      "status": "manufacturer_stated",
+      "notes": "IP rating from manufacturer datasheet"
+    },
+    {
+      "value": "IP65",
+      "source": "call_notes",
+      "confidence": "high",
+      "status": "verbal",
+      "notes": "IP rating from call notes"
+    }
+  ],
+  "weight": [
+    {
+      "value": "11 kg",
+      "source": "manufacturer_datasheet",
+      "confidence": "high",
+      "status": "manufacturer_stated",
+      "notes": "Weight from manufacturer datasheet"
+    },
+    {
+      "value": "18 kg",
+      "source": "call_notes",
+      "confidence": "low",
+      "status": "unverified",
+      "notes": "Weight from call notes, installer's guess"
+    }
+  ],
+  "max_efficiency": [
+    {
+      "value": "98.5%",
+      "source": "manufacturer_datasheet",
+      "confidence": "high",
+      "status": "manufacturer_stated",
+      "notes": "Max efficiency from manufacturer datasheet"
+    },
+    {
+      "value": "high 90s efficiency",
+      "source": "call_notes",
+      "confidence": "low",
+      "status": "verbal",
+      "notes": "Max efficiency from call notes, verbal"
+    }
+  ],
+  "grid_standards": [
+    {
+      "value": "IEC 61727, IEC 62116, EN 50549",
+      "source": "manufacturer_datasheet",
+      "confidence": "high",
+      "status": "manufacturer_stated",
+      "notes": "Grid standards from manufacturer datasheet"
+    }
+  ],
+  "safety_emc_standards": [
+    {
+      "value": "IEC/EN 61000-6-1/2/3/4, IEC/EN 62109-1, IEC/EN 62109-2",
+      "source": "manufacturer_datasheet",
+      "confidence": "high",
+      "status": "manufacturer_stated",
+      "notes": "Safety/EMC standards from manufacturer datasheet"
+    }
+  ],
+  "testing_evidence": [
+    {
+      "value": "SGS",
+      "source": "call_notes",
+      "confidence": "low",
+      "status": "verbal",
+      "notes": "Testing evidence from call notes, verbal, nothing in writing"
+    },
+    {
+      "value": "pending_from_manufacturer",
+      "source": "none",
+      "confidence": "none",
+      "status": "pending_from_manufacturer",
+      "notes": "No written testing evidence found in supplied sources"
+    }
+  ],
+  "labeling": [
+    {
+      "value": "pending_from_manufacturer",
+      "source": "none",
+      "confidence": "none",
+      "status": "pending_from_manufacturer",
+      "notes": "No information found in supplied sources"
+    }
+  ]
+}

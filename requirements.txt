@@ -1,0 +1,6 @@
+pymupdf
+requests
+groq
+pydantic
+langgraph
+python-dotenv
