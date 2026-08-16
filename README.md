@@ -129,7 +129,7 @@ sunbridge-import-compliance-agent/
 ├── output/
 │   ├── extracted_claims.json        # pipeline output (source-attributed)
 │   └── sunbridge_compliance_draft.md # pipeline output (human-readable draft)
-├── presentation/               # video deck assets (diagrams, exported PDF)
+├── presentation/               #  assets (diagrams, exported PDF)
 ├── .env.example                # GROQ_API_KEY template
 ├── requirements.txt
 └── README.md
